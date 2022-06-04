@@ -9,7 +9,7 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-docs:
+posts:
     - title: Languege
       children:
         - title: "Python"
