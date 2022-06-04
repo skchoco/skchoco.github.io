@@ -285,7 +285,7 @@ futrue: true
 defaults:
   # _posts
   - scope:
-      path: "Python"
+      path: ""
       type: posts
     values:
       layout: single
