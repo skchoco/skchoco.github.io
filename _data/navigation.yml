@@ -8,3 +8,10 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+docs:
+    - title: Languege
+      children:
+        - title: "Python"
+          url: python/
+          category: "python"
