@@ -279,6 +279,9 @@ compress_html:
 
 futrue: true
 
+sidebar:
+  nav: "docs"
+  
 # Defaults
 defaults:
   # _posts
