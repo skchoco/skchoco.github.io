@@ -279,15 +279,14 @@ compress_html:
 
 futrue: true
 
-sidebar:
-  nav: "docs"
+
   
 # Defaults
 defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: docs
     values:
       layout: single
       author_profile: true
@@ -295,4 +294,6 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar: 
+        nav: "docs"
       sidebar_main: true
