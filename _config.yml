@@ -290,6 +290,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      sidebar_main: true
+        nav: "posts"
       read_time: true
       comments: # true
       share: true
