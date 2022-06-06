@@ -10,10 +10,3 @@ main:
 #     url: /collection-archive/
 #   - title: "Sitemap"
 #     url: /sitemap/
-
-# posts:
-#     - title: Languege
-#       children:
-#         - title: "Python"
-#           url: python/
-#           category: "python"
