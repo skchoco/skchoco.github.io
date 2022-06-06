@@ -283,12 +283,12 @@ defaults:
   # _posts
   - scope:
       path: ""
-      type: posts
+      type: main
     values:
       layout: single
       author_profile: true
       sidebar_main: true
-        nav: "posts"
+        nav: "main"
       read_time: true
       comments: # true
       share: true
